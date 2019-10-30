@@ -4,6 +4,9 @@
 
 
 def main(args):
+    a = input("podaj liczbę:")
+    b = input("podaj liczbę:")
+    print("Suma:", int(a) + int(b))
     print("Witaj python!")
     
 

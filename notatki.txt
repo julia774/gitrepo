@@ -1,0 +1,50 @@
+Created środa 18 września 2019
+hattps://
+ git clone (link) klonowanie repozytokium  
+cd gitrepo wejście do repozytorium
+
+katalog domowy 
+
+funkcja
+nazwa()
+print()
+input()
+type() 
+int()
+zmienne służą do zapamiętywania 
+nazwa a-operator 
+a=10
+print wyjście (operacja)
+input wejście
+
+
+typ danych 
+string - tekst, 
+integer- liczby calkowita
+
+notepad++
+geany
+  
+skrypty python
+.py 
+
+
+cd gitrepo 
+~ skrót do katalogu domowego 
+git clone 
+konfiguracja 
+git config 
+git ststus 
+git commit -m"dodanie pierwszego skryptu"
+
+git pull ściągnij zmiany 
+algorytm - skończona lista czynnności prowadzące do celu 
+algorytm liniowy - lista kroków, które wykonuje się tak samo 
+
+algorytmy  
+ romb - warunek
+równoleglobok - wejście/ wyjście
+
+funkcja range generuje listę od 0 
+dzielenie modulo  dzielenie z resztą
+

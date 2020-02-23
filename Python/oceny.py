@@ -22,6 +22,7 @@ def liczSrednia(oceny):
 def main(args):
     oceny = pobierzOceny()
     liczSrednia(oceny)
+    print()
     return 0
 
 if __name__ == '__main__':
